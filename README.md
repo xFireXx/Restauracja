@@ -1,3 +1,4 @@
-Pierwsza strona landing page wykonana po długiej przerwie od front-endu. 
+<h1> Prosty landingpage dla restauracji </h2> 
+
 
 
